@@ -1,0 +1,44 @@
+html 
+{
+    scroll-behavior: smooth;
+}
+
+.NavBar
+{
+    margin-top:3%;
+}
+  
+.NavBar a
+{
+    color:black;
+    margin:2%;
+    font-size: large;
+    font-weight: 400;
+
+}
+
+.NavBar a:hover
+{
+    color: Gray;
+}
+
+.Heading
+{
+    font-weight: 900;
+    font-size: 3.25rem;
+    line-height: 3.25rem;
+}
+
+.HeadingInfo
+{
+    margin-top: 5%;
+    color: gray;
+    font-size: large;
+    font-weight: 500;
+}
+
+.cardInfo
+{
+    margin-top: 25%;
+
+}
